@@ -23,7 +23,7 @@ const About = () => {
             <article className="about__card">
               <BiAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>6 months full-time Training</small>
+              <small>6-month Full-time Programme in Software Developer Immersive, accredited by NTU</small>
             </article>
             <article className="about__card">
               <BiDumbbell className='about__icon'/>
