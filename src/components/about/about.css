@@ -1,6 +1,6 @@
 .about__container {
   display: grid;
-  grid-template-columns: 28% 62%;
+  grid-template-columns: 35% 50%;
   gap: 15%;
 }
 
@@ -19,6 +19,8 @@
 }
 
 .about__me-image {
+  max-width: 100%;
+  height: 100%;
   border-radius: 2rem;
   overflow: hidden;
   transform: rotate(10deg);
