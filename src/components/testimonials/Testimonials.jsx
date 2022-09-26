@@ -16,14 +16,25 @@ const data = [
   {
     avatar: Avat1,
     name: "Edison Zhuang",
-    review:' Lorem, ipsum dolor sit amet consecteturadipisicing elit. Unde reiciendis quia consequuntur iusto. Quisquam laborum magni dignissimos? Ex, blanditiis eos.'
-
+    review:
+    `I knew Amy from the Software Developer Immersive Program offered under NTU as her trainer. Amy possessed a strong learning attitude. 
+    She leaves no stone unturned in her quest to pick up software development. Amy has the right attitude to contribute to any organizations 
+    that are willing to offer her the opportunities. \nI have witnessed Amy's approachable leadership in her group project. 
+    She took initiative to meet project milestones and guided her peers to do the same. She is well-liked by her group mates and is one of 
+    the key contributors to the success of every project. She continues her learning journey even after her graduation. She would spend lots 
+    of time learning and attempting to practice her coding skills. I highly recommend her to any organizations that appreciate a well mannered, 
+    matured, stable and hardworking career switchers.`
   }, 
   {
     avatar: Avat1,
     name: "Terence  Gaffud",
-    review: 'Lorem,ipsum dolor sit amet consecteturadipisicing elit. Unde reiciendis quia consequuntur iusto. Quisquam laborum magni dignissimos? Ex, blanditiis eos.'
-    
+    review: 
+    `Amy is a good developer. She's well versed in JavaScript and has experience creating frontend using ReactJS, backend APIs using Express, 
+    as well as mobile applications using React Native. She is also familiar with PostgreSQL and MongoDB as databases. In terms of her work ethic, 
+    she is resilient and would approach any problem given to her with enthusiasm. She is methodical in her approach in developing the program flow 
+    and would try to understand the whole picture of how the application should work. She doesn't shy away from asking questions, and applies to 
+    her code what she learned through lessons and consultations. This is what makes Amy a good developer. She is not afraid to try and always has 
+    a thirst of knowing and applying what she knows.`
   }
 ]
 
