@@ -1,7 +1,7 @@
 {
-  "main.css": "/Amy-Portfolio-website/static/css/main.d8c864e4.chunk.css",
-  "main.js": "/Amy-Portfolio-website/static/js/main.4d38181c.chunk.js",
-  "main.js.map": "/Amy-Portfolio-website/static/js/main.4d38181c.chunk.js.map",
+  "main.css": "/Amy-Portfolio-website/static/css/main.dd27ffac.chunk.css",
+  "main.js": "/Amy-Portfolio-website/static/js/main.b1ce3364.chunk.js",
+  "main.js.map": "/Amy-Portfolio-website/static/js/main.b1ce3364.chunk.js.map",
   "static/css/1.4dd06a39.chunk.css": "/Amy-Portfolio-website/static/css/1.4dd06a39.chunk.css",
   "static/js/1.5c3294e9.chunk.js": "/Amy-Portfolio-website/static/js/1.5c3294e9.chunk.js",
   "static/js/1.5c3294e9.chunk.js.map": "/Amy-Portfolio-website/static/js/1.5c3294e9.chunk.js.map",
@@ -14,9 +14,9 @@
   "static/media/proj-1.jpg": "/Amy-Portfolio-website/static/media/proj-1.03ccf9ac.jpg",
   "static/media/proj-2.jpg": "/Amy-Portfolio-website/static/media/proj-2.c42a99bc.jpg",
   "static/media/proj3.jpg": "/Amy-Portfolio-website/static/media/proj3.23f74242.jpg",
-  "static/css/main.d8c864e4.chunk.css.map": "/Amy-Portfolio-website/static/css/main.d8c864e4.chunk.css.map",
+  "static/css/main.dd27ffac.chunk.css.map": "/Amy-Portfolio-website/static/css/main.dd27ffac.chunk.css.map",
   "static/css/1.4dd06a39.chunk.css.map": "/Amy-Portfolio-website/static/css/1.4dd06a39.chunk.css.map",
   "index.html": "/Amy-Portfolio-website/index.html",
-  "precache-manifest.d8bffc773e726daa4a3ce40655c20aea.js": "/Amy-Portfolio-website/precache-manifest.d8bffc773e726daa4a3ce40655c20aea.js",
+  "precache-manifest.b9e7a4e2421784df05cc2f90efa2794e.js": "/Amy-Portfolio-website/precache-manifest.b9e7a4e2421784df05cc2f90efa2794e.js",
   "service-worker.js": "/Amy-Portfolio-website/service-worker.js"
 }

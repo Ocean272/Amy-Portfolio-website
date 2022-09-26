@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4d38181c98bea779b123",
-    "url": "/Amy-Portfolio-website/static/css/main.d8c864e4.chunk.css"
+    "revision": "b1ce33644d7b2e09831f",
+    "url": "/Amy-Portfolio-website/static/css/main.dd27ffac.chunk.css"
   },
   {
-    "revision": "4d38181c98bea779b123",
-    "url": "/Amy-Portfolio-website/static/js/main.4d38181c.chunk.js"
+    "revision": "b1ce33644d7b2e09831f",
+    "url": "/Amy-Portfolio-website/static/js/main.b1ce3364.chunk.js"
   },
   {
     "revision": "5c3294e900f1d1ab3ea9",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/Amy-Portfolio-website/static/media/proj3.23f74242.jpg"
   },
   {
-    "revision": "9b3d6e8ff0ca84c0c4274bb2f600c41a",
+    "revision": "e93c6dffe866e2b9b8011df0441d47f1",
     "url": "/Amy-Portfolio-website/index.html"
   }
 ];
