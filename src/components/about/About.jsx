@@ -37,10 +37,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Minima iure labore obcaecati accusamus, molestias, tempore nihil 
-            aliquid laudantium praesentium ad mollitia hic? Alias aspernatur esse ducimus. 
-            Fuga, officiis? Dolor, alias.
+          Software Developer seeking new career path
+          <br/>
+          <br/>I have just completed a 6-month full-time certification in Software Development Immersive accredited by Nanyang Technological University, with the aspiration to embark on my next career in software development.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
