@@ -1,12 +1,10 @@
-import React, {useState} from 'react'
+import React from 'react'
 import './footer.css'
 import {BsLinkedin} from 'react-icons/bs'
 import {BsTwitter} from 'react-icons/bs'
 import {BsGithub} from 'react-icons/bs'
 
 const footer = () => {
-  //eslint-disable-next-line
-  const [ activeNav, setActiveNav] = useState('#')
   return (
     <footer>
       <a href='/#' className='footer__logo'>OCEAN272_Works</a>
