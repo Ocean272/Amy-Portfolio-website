@@ -7,10 +7,10 @@ import {BsGithub} from 'react-icons/bs'
 const footer = () => {
   return (
     <footer>
-      <a href='/#' className='footer__logo'>OCEAN272_Works</a>
+      <a href='#' className='footer__logo'>OCEAN272_Works</a>
 
       <ul className="permalinks">
-        <li><a href='/#'>Home</a></li>
+        <li><a href='#'>Home</a></li>
         <li><a href='#about'>About</a></li>
         <li><a href='#experience'>Experience</a></li>
         <li><a href='#portfolio' >Portfolios</a></li>
