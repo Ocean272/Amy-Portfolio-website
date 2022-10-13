@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c6f34ce79698b700441b",
-    "url": "/Amy-Portfolio-website/static/css/main.dd27ffac.chunk.css"
+    "revision": "5c4b3a7155bba8984b50",
+    "url": "/Amy-Portfolio-website/static/css/main.d2041613.chunk.css"
   },
   {
-    "revision": "c6f34ce79698b700441b",
-    "url": "/Amy-Portfolio-website/static/js/main.c6f34ce7.chunk.js"
+    "revision": "5c4b3a7155bba8984b50",
+    "url": "/Amy-Portfolio-website/static/js/main.5c4b3a71.chunk.js"
   },
   {
     "revision": "5c3294e900f1d1ab3ea9",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/Amy-Portfolio-website/static/media/cv.2eadc88e.pdf"
   },
   {
-    "revision": "0c64cd0a65dfa14c1d050ec906546029",
-    "url": "/Amy-Portfolio-website/static/media/headerpic2.0c64cd0a.jpg"
+    "revision": "b44558ab9870fc3e476b397bade8d067",
+    "url": "/Amy-Portfolio-website/static/media/headerpic2.b44558ab.jpg"
   },
   {
     "revision": "2cf264c5130cca17acb9aab06ff404a9",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/Amy-Portfolio-website/static/media/proj3.23f74242.jpg"
   },
   {
-    "revision": "1ae17c4153da454a84e428a1429f2801",
+    "revision": "77f9f3c19f9b5f4ff3fe82c90237a16b",
     "url": "/Amy-Portfolio-website/index.html"
   }
 ];

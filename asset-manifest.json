@@ -1,7 +1,7 @@
 {
-  "main.css": "/Amy-Portfolio-website/static/css/main.dd27ffac.chunk.css",
-  "main.js": "/Amy-Portfolio-website/static/js/main.c6f34ce7.chunk.js",
-  "main.js.map": "/Amy-Portfolio-website/static/js/main.c6f34ce7.chunk.js.map",
+  "main.css": "/Amy-Portfolio-website/static/css/main.d2041613.chunk.css",
+  "main.js": "/Amy-Portfolio-website/static/js/main.5c4b3a71.chunk.js",
+  "main.js.map": "/Amy-Portfolio-website/static/js/main.5c4b3a71.chunk.js.map",
   "static/css/1.4dd06a39.chunk.css": "/Amy-Portfolio-website/static/css/1.4dd06a39.chunk.css",
   "static/js/1.5c3294e9.chunk.js": "/Amy-Portfolio-website/static/js/1.5c3294e9.chunk.js",
   "static/js/1.5c3294e9.chunk.js.map": "/Amy-Portfolio-website/static/js/1.5c3294e9.chunk.js.map",
@@ -9,14 +9,14 @@
   "runtime~main.js.map": "/Amy-Portfolio-website/static/js/runtime~main.33adeed7.js.map",
   "static/media/emptyavatar.jpg": "/Amy-Portfolio-website/static/media/emptyavatar.d66c8dc3.jpg",
   "static/media/cv.pdf": "/Amy-Portfolio-website/static/media/cv.2eadc88e.pdf",
-  "static/media/headerpic2.jpg": "/Amy-Portfolio-website/static/media/headerpic2.0c64cd0a.jpg",
+  "static/media/headerpic2.jpg": "/Amy-Portfolio-website/static/media/headerpic2.b44558ab.jpg",
   "static/media/me2.jpg": "/Amy-Portfolio-website/static/media/me2.2cf264c5.jpg",
   "static/media/proj-1.jpg": "/Amy-Portfolio-website/static/media/proj-1.03ccf9ac.jpg",
   "static/media/proj-2.jpg": "/Amy-Portfolio-website/static/media/proj-2.c42a99bc.jpg",
   "static/media/proj3.jpg": "/Amy-Portfolio-website/static/media/proj3.23f74242.jpg",
-  "static/css/main.dd27ffac.chunk.css.map": "/Amy-Portfolio-website/static/css/main.dd27ffac.chunk.css.map",
+  "static/css/main.d2041613.chunk.css.map": "/Amy-Portfolio-website/static/css/main.d2041613.chunk.css.map",
   "static/css/1.4dd06a39.chunk.css.map": "/Amy-Portfolio-website/static/css/1.4dd06a39.chunk.css.map",
   "index.html": "/Amy-Portfolio-website/index.html",
-  "precache-manifest.fde4530f73217c0311a3bf4b1c0a8715.js": "/Amy-Portfolio-website/precache-manifest.fde4530f73217c0311a3bf4b1c0a8715.js",
+  "precache-manifest.1a31aa6ac5e970fcf5c81c2f175783c1.js": "/Amy-Portfolio-website/precache-manifest.1a31aa6ac5e970fcf5c81c2f175783c1.js",
   "service-worker.js": "/Amy-Portfolio-website/service-worker.js"
 }
