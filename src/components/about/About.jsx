@@ -31,7 +31,7 @@ const About = () => {
             <article className="about__card">
               <BiDumbbell className="about__icon" />
               <h5>Strengths</h5>
-              <small>Resilience, strong learner</small>
+              <small>Positivity, Resilient, Constant learning, Curious, Attention to details  </small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
@@ -42,10 +42,10 @@ const About = () => {
           <p>
             Software Developer seeking new career path
             <br />
-            <br />I have just completed a 6-month full-time certification in
+            <br />I have completed a 6-month full-time certification in
             Software Development Immersive accredited by Nanyang Technological
             University, with the aspiration to embark on my next career in
-            software development.
+            software development. 
           </p>
 
           <a href="#contact" className="btn btn-primary">
