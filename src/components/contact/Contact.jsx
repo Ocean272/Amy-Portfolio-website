@@ -1,10 +1,11 @@
-import React, { useRef } from "react";
+import React from "react";
+import { useRef } from "react";
 import "./contact.css";
 import { MdOutlineEmail } from "react-icons/md";
 import { BsWhatsapp } from "react-icons/bs";
 import emailjs from "emailjs-com";
 
-const contact = () => {
+const Contact = () => {
   const form = useRef();
 
   const sendEmail = (e) => {
@@ -77,4 +78,4 @@ const contact = () => {
   );
 };
 
-export default contact;
+export default Contact;

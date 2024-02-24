@@ -1,12 +1,19 @@
 import React from "react";
 import "./testimonials.css";
 import Avat1 from "../../assets/emptyavatar.jpg";
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination } from "swiper";
+import { Swiper, SwiperSlide } from "swiper/react" ;
+import { Pagination } from "swiper/modules";
 
 // // Import Swiper styles
-import "swiper/swiper.min.css";
-import "swiper/modules/pagination/pagination.min.css";
+import "swiper/css";
+
+
+import "swiper/css/navigation";
+import "swiper/css/pagination";
+
+// const swiper = new Swiper(".swiper", {
+//   modules: [Navigation, Pagination]
+// });
 
 const data = [
   {
