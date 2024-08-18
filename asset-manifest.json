@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Amy-Portfolio-website/static/css/main.64e329ba.css",
-    "main.js": "/Amy-Portfolio-website/static/js/main.02c3b263.js",
+    "main.js": "/Amy-Portfolio-website/static/js/main.6d473813.js",
     "static/media/proj3.jpg": "/Amy-Portfolio-website/static/media/proj3.41a512bc7175073572b5.jpg",
     "static/media/headerpic2.jpg": "/Amy-Portfolio-website/static/media/headerpic2.309ad1b6cf2587a70c3f.jpg",
     "static/media/me2.jpg": "/Amy-Portfolio-website/static/media/me2.a14c3aa5b0da5d09c30b.jpg",
     "static/media/proj-2.jpg": "/Amy-Portfolio-website/static/media/proj-2.3137692c2c3683ba8714.jpg",
-    "static/media/my_resume.pdf": "/Amy-Portfolio-website/static/media/my_resume.3849a9af0361a6cb5f4f.pdf",
+    "static/media/my_resume.pdf": "/Amy-Portfolio-website/static/media/my_resume.988c02fda1fcc5b4fdf2.pdf",
     "static/media/proj-1.jpg": "/Amy-Portfolio-website/static/media/proj-1.b2652163579f5b46506d.jpg",
     "static/media/emptyavatar.jpg": "/Amy-Portfolio-website/static/media/emptyavatar.f4eb2a3e60816c38ad88.jpg",
     "index.html": "/Amy-Portfolio-website/index.html",
     "main.64e329ba.css.map": "/Amy-Portfolio-website/static/css/main.64e329ba.css.map",
-    "main.02c3b263.js.map": "/Amy-Portfolio-website/static/js/main.02c3b263.js.map"
+    "main.6d473813.js.map": "/Amy-Portfolio-website/static/js/main.6d473813.js.map"
   },
   "entrypoints": [
     "static/css/main.64e329ba.css",
-    "static/js/main.02c3b263.js"
+    "static/js/main.6d473813.js"
   ]
 }
