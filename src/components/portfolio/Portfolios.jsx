@@ -16,8 +16,8 @@ const data = [
     id: 2,
     image: proj2,
     title: "Covid Situation App",
-    github: "https://github.com/Ocean272/covid-tracker",
-    demo: "https://Ocean272.github.io/covid-tracker/",
+    github: "https://github.com/Ocean272/covid-2025",
+    demo: "https://Ocean272.github.io/covid-2025/",
   },
   {
     id: 3,
